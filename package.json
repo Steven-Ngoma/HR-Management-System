@@ -1,0 +1,40 @@
+{
+  "name": "hr-management-system",
+  "version": "1.0.0",
+  "description": "A comprehensive HR Management System built with React, Node.js, and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build && cd ../backend && npm run build",
+    "start": "cd backend && npm start",
+    "install-deps": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "lint": "cd backend && npm run lint && cd ../frontend && npm run lint",
+    "test": "cd backend && npm test && cd ../frontend && npm test"
+  },
+  "keywords": [
+    "hr-management",
+    "employee-management",
+    "payroll",
+    "attendance",
+    "react",
+    "nodejs",
+    "mongodb",
+    "typescript",
+    "full-stack"
+  ],
+  "author": "Steven Ngoma",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/hr-management-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/hr-management-system/issues"
+  },
+  "homepage": "https://github.com/yourusername/hr-management-system#readme"
+}
