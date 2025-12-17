@@ -146,7 +146,7 @@ frontend/
 │   └── utils/          # Helper functions
 ```
 
-## 🏆 **Skills Demonstrated**
+## 🏆 **Skills **
 
 ### **Frontend Development**
 - ⚛️ **React.js 18** with Hooks and Context API
@@ -198,7 +198,7 @@ npm run lint         # Run code linting
 npm test             # Run test suites
 ```
 
-## 🏆 **Why This Project Stands Out**
+## 🏆 **This Project is based on**
 
 ✅ **Enterprise-Grade Architecture** - Scalable, maintainable, and production-ready
 ✅ **Modern Tech Stack** - Latest versions of React, Node.js, and MongoDB
@@ -211,21 +211,10 @@ npm test             # Run test suites
 ## 👨💻 **Developer**
 
 **Steven Ngoma** - Full-Stack Developer
-- 🔗 **Portfolio**: [View Live Demo](https://your-demo-link.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/yourprofile)
-- 📧 **Contact**: your.email@example.com
-- 🐙 **GitHub**: [@yourusername](https://github.com/yourusername)
 
----
+- 📧 **Email**: stevenngoma697@gmail.com
+  
 
-### 🚀 **Ready for Production**
-This project demonstrates **enterprise-level development skills** and **real-world problem-solving abilities**. The codebase follows industry standards and is ready for immediate deployment in production environments.
 
-### 💡 **Perfect for Employers**
-Showcases proficiency in modern web development, database design, security implementation, and user experience design - all essential skills for senior developer positions.
 
----
 
-⭐ **Star this repository if it demonstrates the skills you're looking for!**
-
-*This project represents the quality and expertise I bring to every development challenge.*
